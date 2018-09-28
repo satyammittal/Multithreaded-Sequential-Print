@@ -1,0 +1,3 @@
+ABCDEFGHIJ 3 4 2
+manaskumarverma 3 2 5
+r 100 5 1
